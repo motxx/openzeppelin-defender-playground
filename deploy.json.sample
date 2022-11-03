@@ -1,0 +1,10 @@
+{
+  "sokol": {
+    "MinimalForwarder": "",
+    "DemoERC20": ""
+  },
+  "goerli": {
+    "MinimalForwarder": "",
+    "DemoERC20": ""
+  }
+}
